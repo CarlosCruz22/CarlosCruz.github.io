@@ -1,0 +1,181 @@
+@charset "utf-8";
+/* CSS Document */
+
+#principal
+{	
+width: 1300px;
+height: auto; overflow: hidden; 
+border: 1px solid #ccc;
+margin:auto;
+
+}
+	
+header
+
+{
+width: 1500px;
+height: 150px; 
+border: 1px solid #000;
+
+
+}
+
+
+#logo
+{
+	
+width: 1500px;
+height: 8px; 
+border: 0px solid #000;
+float:left;
+		
+}
+
+.menu 
+{
+width: 345px;
+height: 48px; 
+border: 1px solid #ccc;
+float:left;
+margin-top: 90px;
+background: #9C1719;
+
+}
+
+
+.menu ul {}
+
+.menu ul li 
+{
+list-style: none;
+	float:left;
+	
+	}
+	
+.menu ul li a
+{
+	text-decoration: none;
+	padding: 10px 7px;
+	border: 1px solid #ccc;
+	color:aliceblue;
+	}
+
+.menu ul a:hover
+{
+    background: #e0e0e0;
+	color:#006699;
+    transition: background 1s, color 1s;
+
+}	
+#slide
+	{
+	margin-top: 5px;
+    width: 900px;
+    height: 250;
+	}
+
+.Borde-Frame
+{
+
+	}
+	
+#categorias
+{
+
+width: 1500;	
+height: 500px;
+border: 0px solid;
+margin-top: 10px; 
+	
+	}
+
+.parrafo
+{
+color:#000000;
+text-align: center;
+padding: 10px;
+}
+
+
+.uno
+{
+width: 424px;
+height: 491px;
+border: 1px solid #000;
+float:left;
+text-align:center;
+	
+	
+}
+
+.dos
+{
+
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.decorar_botones
+{
+
+text-decoration: none;
+border:2px solid #006699;
+padding: 10px 20px 10px 20px;
+margin: 10px;
+	
+}
+
+.decorar_botones:hover
+{
+
+    background: #006696;
+	color: #FFF;
+	transition: background 1s, color 1s;
+}
+
+#info
+{
+width: 1500px;
+height:auto; overflow: hidden;
+border: 1px solid #C0C0C0;
+margin-top: 10px;
+}
+
+#izquierda
+{
+
+width: 750px;
+height: 300px;
+border: 1px solid #000;
+float: left;
+padding: 5px;
+}
+
+.imagen
+{
+
+margin-right: 7px;
+margin-botton: 7px;
+}
+	
+#derecha
+{
+width: 725px;
+height: 310px;
+border: 1px solid #000;
+float:right;
+}
+
+#footer
+{
+    width: 1500;
+	height: 100px;
+	text-align:center;
+
+}
+
+footer p
+{
+	width: auto; overflow: hidden;
+}
+
